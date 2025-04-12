@@ -323,6 +323,8 @@ Your assignment will be evaluated based on the following criteria:
    - Link to your GitHub repository (once all commits are pushed) - this way we will know you've submitted the assignment
    - Brief explanation of any challenges you faced (OPTIONAL, but we would like to know how has your experience been, in order to tweak future assignments, maybe offer less/more help as requested)
 
+   I am going to upload video to my github for the explaination.
+
 ## Tips for Success
 
 - **Start early** - Don't wait until the last minute
